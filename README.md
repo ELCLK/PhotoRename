@@ -1,4 +1,3 @@
-[<title="README.md">]
 ```markdown
 # EXIF照片批量重命名工具
 
